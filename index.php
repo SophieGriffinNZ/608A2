@@ -14,7 +14,9 @@
       <li><a href="listcustomers.php">Customer listing</a>
       <li><a href="listrooms.php">Rooms listing</a>
       <li><a href="listbookings.php">Bookings listing</a>
+      <li><a href="addbooking.php">Make a booking</a>
       <li><a href="login.php">Login</a>
+      <li><a href="addroom.php">Add room</a>
     </ul>
   </body>
 </html>
